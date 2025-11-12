@@ -1,1 +1,1 @@
-# This if for fixing PE import Address Table.
+This is for fixing PE import table
